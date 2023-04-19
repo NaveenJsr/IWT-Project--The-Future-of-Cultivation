@@ -248,7 +248,6 @@ app.post( "/compose", function ( req, res )
       point4: req.body.p4,
       desc4: req.body.d4
     }
-
   };
   console.log( post );
 
