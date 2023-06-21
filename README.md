@@ -14,7 +14,7 @@
 ```
 this will run the express server on 3000 port.
 
-3. Now nisit http://localhost:3000 and we can access the website. 
+3. Now visit http://localhost:3000 and we can access the website. 
 
 ### Home Page
 ![](./1home.png)
