@@ -12,19 +12,13 @@ const teamMember = [
     "name": "Naveen Kumar Pandit",
     "branch": "CSIT",
     "regdNo": "21020114",
-    "profile": "https://media.licdn.com/dms/image/D4D03AQEuyxPLTInehQ/profile-displayphoto-shrink_400_400/0/1681502444738?e=1687392000&v=beta&t=ldojhgTMGez9ikC_ZhkRSq--L-FjxCGpLGAR9xwiIs8",
+    "profile": "https://media.licdn.com/dms/image/D4D03AQEuyxPLTInehQ/profile-displayphoto-shrink_400_400/0/1681502444738?e=1695859200&v=beta&t=vONRQg-CmZrlztLcG1ogh2jSFN7GmBB7IGMG_S56v6w",
   },
   {
     "name": "Sooraj Kumar",
     "branch": "CSIT",
     "regdNo": "21020065",
-    "profile": "https://media.licdn.com/dms/image/C5103AQE8wevI3zyXIg/profile-displayphoto-shrink_400_400/0/1568105969794?e=1687392000&v=beta&t=_thKVJ2V-cLU49kkBEDu5pJ2OSv0EDGrgr-uvfAeVHw"
-  },
-  {
-    "name": "Gopal Krishna Jagadev",
-    "branch": "CSIT",
-    "regdNo": "21020115",
-    "profile": "https://media.licdn.com/dms/image/D4D03AQFGRCmGxuaSeA/profile-displayphoto-shrink_400_400/0/1668454405883?e=1687392000&v=beta&t=EHHE6d58goEAy5q28fyOtNVRK2lYcjm8dI2xV9Vtln0"
+    "profile": "https://media.licdn.com/dms/image/C5103AQE8wevI3zyXIg/profile-displayphoto-shrink_400_400/0/1568105969794?e=1695859200&v=beta&t=tRfBOzzyAWzAwYAd801pBpd4o9cNk2JKcsehUG___U8"
   },
   {
     "name": "Vishal Singh",
@@ -32,18 +26,6 @@ const teamMember = [
     "regdNo": "21020067",
     "profile": "https://media.licdn.com/dms/image/D5603AQFpBGSAI552wQ/profile-displayphoto-shrink_400_400/0/1680418520697?e=1687392000&v=beta&t=-c-HLSkxOR4c92kbIdNPWU4ULUJHtuGIG14ZQcWKQwg"
   },
-  {
-    "name": "Sukhmati Mardi",
-    "branch": "CSIT",
-    "regdNo": "21020066",
-    "profile": "https://media.licdn.com/dms/image/D4D03AQHtopbg2mLIvg/profile-displayphoto-shrink_400_400/0/1681707367926?e=1687392000&v=beta&t=tTHr3QfbbpQiFUpD47urMwrTH0KuXDw59J7aoKme1r4"
-  },
-  {
-    "name": "Sambit Mohapatra",
-    "branch": "CSIT",
-    "regdNo": "21020063",
-    "profile": "https://media.licdn.com/dms/image/D5603AQETFAektZZ60w/profile-displayphoto-shrink_400_400/0/1681709338174?e=1687392000&v=beta&t=03Fh4Kic_gzHn7_sarFU2uy9omLrbym9Q2sImVJS6-c"
-  }
 ];
 
 let app = express();

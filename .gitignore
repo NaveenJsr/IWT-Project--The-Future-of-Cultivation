@@ -10,3 +10,13 @@
 *.app
 .snapshots/*
 node_modules
+.DS_Store
+.env
+.env.example
+.env.test
+.env.development
+.env.production
+.env.staging
+.env.testing
+.env.development.local
+.env.production.local
